@@ -1,0 +1,16 @@
+{
+  "name": "DgLab x Luogu",
+  "version": "1.0.0",
+  "description": "A luogu script",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node main.js"
+  },
+  "author": "Ark-Aak",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "request": "^2.88.2"
+  }
+}
