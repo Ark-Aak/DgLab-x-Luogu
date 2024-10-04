@@ -10,7 +10,7 @@
 
 检测到 UNAC 提交记录过后增加强度/一键开火！🔥
 
-![郊狼启动](https://i.imgur.com/RVs7WQq.jpeg)
+![](https://i.imgur.com/RVs7WQq.jpeg)
 
 ## 开始之前
 
